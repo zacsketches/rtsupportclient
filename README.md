@@ -1,4 +1,4 @@
-# This fork has includes interim updates
+# This fork includes interim updates to the project
 This fork of knowthen's code includes a branch named `After_section-3` which provides a working codebase at the end of setion 3, or rather at the completion of the frontend in React.  There are some things not covered in the videos that I found confusing coming to React without much previous experience were:
 
 * Getting the Channel name to switch in the Messages component
