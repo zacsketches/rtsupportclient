@@ -1,9 +1,9 @@
 # This fork has includes interim updates
 This fork of knowthen's code includes a branch named `After_section-3` which provides a working codebase at the end of setion 3, or rather at the completion of the frontend in React.  There are some things not covered in the videos that I found confusing coming to React without much previous experience were:
 
-    * Getting the Channel name to switch in the Messages component
-    * Adding the activeChannel to the app.state
-    * Updating the activeChannel.Id and activeChannel.name in the setChannel method
+* Getting the Channel name to switch in the Messages component
+* Adding the activeChannel to the app.state
+* Updating the activeChannel.Id and activeChannel.name in the setChannel method
 
 # Learn How to Develop Realtime Web Apps
 This repo contains the source for the React Frontend for the following course on Building Realtime Web Apps with Reactjs, Golang & RethinkDB
